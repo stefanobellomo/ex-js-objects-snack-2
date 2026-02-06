@@ -6,5 +6,10 @@
 
 // Gli ingredienti vengono presi come reference e quindi viene sempre stampato salad, ma vengono creati due oggetti
 
+// SNACK 3
+
+// Oltre l'oggetto originale vengono creati due cloni, in totale 9 oggetti in pagina (hamburger, maker, resturant)
+
+// Snack 4
 
 
