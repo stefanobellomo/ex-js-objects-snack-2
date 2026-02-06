@@ -10,6 +10,11 @@
 
 // Oltre l'oggetto originale vengono creati due cloni, in totale 9 oggetti in pagina (hamburger, maker, resturant)
 
-// Snack 4
+// SNACK 4
+
+// Per chef userei lo spread operator perchè così posso clonare anche la funzione.
+// Per resturant userei lo structured clone in modo da poter copiare anche i metodi della data.
+
+// SNACK 5
 
 
